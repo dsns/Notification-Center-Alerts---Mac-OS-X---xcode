@@ -22,7 +22,7 @@
     NSUserNotification *n = [[NSUserNotification alloc] init];
     NSString * title =@"Title";
     NSString * subtitle =@"All not saved data will we lost";
-    NSString * informativeText =@"To Activate web inspector required application reloading, reload application now?";
+    NSString * informativeText =@"To Activate web inspector application require reloading, reload application now?";
     NSString * otherTitle =@"Later";
     NSString * actionTitle =@"Reload";
     NSString * bannerImage =@"1.png";

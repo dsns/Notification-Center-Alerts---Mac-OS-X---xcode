@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ED10E3E4-1989-473B-8CDC-78857486EC51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Notification Center Alerts button</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FE3E64C-0413-4E2B-8F3F-68B030B7E2C2</key>
+		<string>https://github.com/dsns/Notification-Center-Alerts---Mac-OS-X---xcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Notification Center Alerts button.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FE3E64C-0413-4E2B-8F3F-68B030B7E2C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dsns/Notification-Center-Alerts---Mac-OS-X---xcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FE3E64C-0413-4E2B-8F3F-68B030B7E2C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FE3E64C-0413-4E2B-8F3F-68B030B7E2C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AlertsStyle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
