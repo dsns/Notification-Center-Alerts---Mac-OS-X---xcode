@@ -155,10 +155,10 @@
 				0CE0A4DC17C9CB6B00C489DD /* CNUserNotificationBannerButton.m */,
 				0CE0A4DF17C9CB9F00C489DD /* CNUserNotificationBannerButtonCell.h */,
 				0CE0A4E017C9CB9F00C489DD /* CNUserNotificationBannerButtonCell.m */,
-				0CE0A4CB17C9CA8B00C489DD /* CNUserNotificationCenter.h */,
-				0CE0A4CC17C9CA8B00C489DD /* CNUserNotificationCenter.m */,
 				0CE0A4E417C9DB2A00C489DD /* CNUserNotificationBannerController.h */,
 				0CE0A4E517C9DB2A00C489DD /* CNUserNotificationBannerController.m */,
+				0CE0A4CB17C9CA8B00C489DD /* CNUserNotificationCenter.h */,
+				0CE0A4CC17C9CA8B00C489DD /* CNUserNotificationCenter.m */,
 				0CE0A4D617C9CB3C00C489DD /* CNUserNotificationFeature.h */,
 				0CE0A4D717C9CB3C00C489DD /* CNUserNotificationFeature.m */,
 			);
